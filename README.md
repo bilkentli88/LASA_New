@@ -113,7 +113,7 @@ If you use this code or concepts in your research, please cite our paper:
 
     @article{lasa2026,
         title={Generative Repair: Decoupling Robustness from Latency in Intrusion Detection Systems},
-        author={Your Name and Co-Authors},
+        author={Aykut T. Altay},
         journal={Expert Systems with Applications},
         year={2026},
         note={Under Review}
